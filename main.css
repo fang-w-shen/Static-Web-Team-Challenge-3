@@ -1,0 +1,14 @@
+
+div {
+	border: 1px solid red;
+	display:inline-block;
+	width:100px;
+	height:100px;
+	background-color: red;
+}
+
+.big {
+	width:200px;
+	height:200px;
+	background-color: blue;
+}
